@@ -29,7 +29,7 @@ Recognize the impact of plant leaf diseases on crop yield and the need for quick
 
 Goal Definition:
 
-Develop an intuitive mobile app for swift and accurate identification of plant leaf diseases, catering to farmers, gardeners, and plant enthusiasts.
+Make plan and develop an intuitive mobile app for swift and accurate identification of plant leaf diseases, catering to farmers, gardeners, and plant enthusiasts.
 
 Technology Selection:
 
